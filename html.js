@@ -32,7 +32,7 @@ createButton.addEventListener('click', function() {
     newButton.textContent = 'KLIK LAGI';
 
     // Beri id dan kelas CSS
-    newButton.id = 'plss starr';
+    newButton.id = 'KLIK LAGI';
     newButton.classList.add('button', 'youtubeButton');
  
     // 2. Tambahkan tombol baru ke dalam halaman
