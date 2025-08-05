@@ -29,7 +29,7 @@ createButton.addEventListener('click', function() {
     const newButton = document.createElement('button');
 
     // Beri teks pada tombol baru
-    newButton.textContent = 'plss star';
+    newButton.textContent = 'KLIK LAGI';
 
     // Beri id dan kelas CSS
     newButton.id = 'plss starr';
